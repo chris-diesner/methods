@@ -26,10 +26,10 @@ public class main {
     }
 
     public static boolean compareNumbers(int num1, int num2){
-        if (num1 > 100){
+        if (num1 > 100 | num2 > 100){
             return true;
-        } else if(num2 > 100) {
-            return true;
+        //} else if(num2 > 100) {
+            //return true;
         } else {
             return false;
         }
