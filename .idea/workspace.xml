@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de34853-02a9-4796-83fa-ec83434808c2" name="Changes" comment="KickStart">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7de34853-02a9-4796-83fa-ec83434808c2" name="Changes" comment="reduced code">
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OayJss3VVExY8FkoIzyLkn0MEt" />
@@ -51,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681812921714</updated>
-      <workItem from="1681812924884" duration="2542000" />
+      <workItem from="1681812924884" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="KickStart">
       <created>1681815461040</created>
@@ -60,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681815461040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reduced code">
+      <created>1681815828786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681815828786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reduced code">
+      <created>1681815854674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681815854674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +90,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="reduce_code" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -79,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KickStart" />
-    <option name="LAST_COMMIT_MESSAGE" value="KickStart" />
+    <MESSAGE value="reduced code" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduced code" />
   </component>
 </project>
