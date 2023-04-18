@@ -2,10 +2,9 @@ import java.util.Scanner;
 
 public class main {
 
-    static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
 
-
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Gib die erste Zahl ein: ");
         int input1 = scanner.nextInt();
         System.out.println("Gib die zweite Zahl ein: ");
