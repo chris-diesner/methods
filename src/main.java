@@ -9,7 +9,7 @@ public class main {
         int input1 = scanner.nextInt();
         System.out.println("Gib die zweite Zahl ein: ");
         int input2 = scanner.nextInt();
-        System.out.println(doubleNumber(input1,input2));
+        System.out.println("Die Addition ergibt: " + doubleNumber(input1,input2));
         System.out.println(printNumbers(input1,input2));
         System.out.println("Ist eine der beiden Zahlen größer 100?:");
         System.out.println(compareNumbers(input1,input2));

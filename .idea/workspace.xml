@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de34853-02a9-4796-83fa-ec83434808c2" name="Changes" comment="reduced code">
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7de34853-02a9-4796-83fa-ec83434808c2" name="Changes" comment="reduced code #3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681812921714</updated>
-      <workItem from="1681812924884" duration="2969000" />
+      <workItem from="1681812924884" duration="3685000" />
     </task>
     <task id="LOCAL-00001" summary="KickStart">
       <created>1681815461040</created>
@@ -79,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681815854674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reduced code">
+      <created>1681815959497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681815959497</updated>
+    </task>
+    <task id="LOCAL-00005" summary="reduced code #2">
+      <created>1681816490512</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816490512</updated>
+    </task>
+    <task id="LOCAL-00006" summary="reduced code #3">
+      <created>1681816585880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816585880</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KickStart" />
     <MESSAGE value="reduced code" />
-    <option name="LAST_COMMIT_MESSAGE" value="reduced code" />
+    <MESSAGE value="reduced code #2" />
+    <MESSAGE value="reduced code #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduced code #3" />
   </component>
 </project>
