@@ -9,13 +9,13 @@ public class main {
         int input1 = scanner.nextInt();
         System.out.println("Gib die zweite Zahl ein: ");
         int input2 = scanner.nextInt();
-        System.out.println("Die Addition ergibt: " + doubleNumber(input1,input2));
+        System.out.println("Die Addition ergibt: " + additionNumber(input1,input2));
         System.out.println(printNumbers(input1,input2));
         System.out.println("Ist eine der beiden Zahlen größer 100?:");
         System.out.println(compareNumbers(input1,input2));
     }
 
-    public static int doubleNumber (int num1, int num2){
+    public static int additionNumber (int num1, int num2){
         return num1+num2;
     }
 
